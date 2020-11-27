@@ -4,3 +4,4 @@ function someFunction(a,b){
     } else {
 	return "Turns out b is greater... weird";
     };
+    /**Nothing to add**/
